@@ -1,0 +1,12 @@
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\bin\Release\net6.0\ApplicationCore.deps.json
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\bin\Release\net6.0\ApplicationCore.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\bin\Release\net6.0\ApplicationCore.pdb
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\refint\ApplicationCore.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ApplicationCore.pdb
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\ApplicationCore\obj\Release\net6.0\ref\ApplicationCore.dll

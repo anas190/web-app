@@ -1,0 +1,13 @@
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\ApplicationCore.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\ApplicationCore.deps.json
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\ApplicationCore.pdb
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Logging.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Options.dll
+C:\Users\anasl\Desktop\pfe inetum\Examen2023\publish\Microsoft.Extensions.Primitives.dll
